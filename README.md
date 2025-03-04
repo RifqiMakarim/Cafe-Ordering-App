@@ -1,4 +1,4 @@
-# PlatformWarungJawa
+# Cafe Ordering App
 
 This is 3rd Semester Project on subject "Object Oriented Programming" in my college.
 Platform Warung Jawa is Simple Food Ordering App that has several features such as add item in orders , total item , reset order item and print bill order.
